@@ -1,0 +1,6 @@
+# SONARSHIELD synthetic demo YOLO dataset (proof-of-concept only)
+path: /home/claude/sonarshield/backend/ml/yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: sonar_anomaly
