@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+backend/database/sonarshield.db
+data/uploads/
+data/processed/
+reports/*.pdf
+.venv/
+venv/
+backend/ml/weights/*.pt
