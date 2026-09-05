@@ -1,0 +1,106 @@
+{
+  "sonar_01.png": {
+    "label": "Elongated Wreck-like Return",
+    "mask_file": "sonar_01_mask.png",
+    "objects": [
+      {
+        "x": 247,
+        "y": 188,
+        "width": 146,
+        "height": 64,
+        "class": "Shipwreck",
+        "confidence": 0.947
+      }
+    ],
+    "synthetic": true
+  },
+  "sonar_02.png": {
+    "label": "Compact High-Contrast Target",
+    "mask_file": "sonar_02_mask.png",
+    "objects": [
+      {
+        "x": 183,
+        "y": 278,
+        "width": 54,
+        "height": 44,
+        "class": "Fishing Gear",
+        "confidence": 0.882
+      }
+    ],
+    "synthetic": true
+  },
+  "sonar_03.png": {
+    "label": "Linear Seabed Feature",
+    "mask_file": "sonar_03_mask.png",
+    "objects": [
+      {
+        "x": 289,
+        "y": 134,
+        "width": 222,
+        "height": 32,
+        "class": "Pipeline/Cable",
+        "confidence": 0.865
+      }
+    ],
+    "synthetic": true
+  },
+  "sonar_04.png": {
+    "label": "Two Discrete Returns",
+    "mask_file": "sonar_04_mask.png",
+    "objects": [
+      {
+        "x": 114,
+        "y": 98,
+        "width": 72,
+        "height": 64,
+        "class": "Unknown Anomaly",
+        "confidence": 0.781
+      },
+      {
+        "x": 445,
+        "y": 315,
+        "width": 51,
+        "height": 51,
+        "class": "Fishing Gear",
+        "confidence": 0.836
+      }
+    ],
+    "synthetic": true
+  },
+  "sonar_05.png": {
+    "label": "Clean Seabed (No Anomaly)",
+    "mask_file": "sonar_05_mask.png",
+    "objects": [],
+    "synthetic": true
+  },
+  "sonar_06.png": {
+    "label": "Large Wreck Signature",
+    "mask_file": "sonar_06_mask.png",
+    "objects": [
+      {
+        "x": 206,
+        "y": 207,
+        "width": 188,
+        "height": 86,
+        "class": "Shipwreck",
+        "confidence": 0.962
+      }
+    ],
+    "synthetic": true
+  },
+  "sonar_07.png": {
+    "label": "Faint Debris Field",
+    "mask_file": "sonar_07_mask.png",
+    "objects": [
+      {
+        "x": 180,
+        "y": 184,
+        "width": 40,
+        "height": 32,
+        "class": "Unknown Anomaly",
+        "confidence": 0.712
+      }
+    ],
+    "synthetic": true
+  }
+}
